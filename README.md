@@ -1,1 +1,2 @@
 # Week 7 Task – BabySoC Physical Design & Post-Route SPEF Generation 
+![image](images/1.png)
