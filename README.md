@@ -13,6 +13,7 @@
 ![image](images/10.png)
 ![image](images/11.png)
 ![image](images/12.png)
+## Placement
 ![image](images/13.png)
 ![image](images/14.png)
 ![image](images/15.png)
